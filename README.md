@@ -8,7 +8,7 @@
 - Endpoint needed to get all of the books in the book store
 - Endpoint needed to update a book
 - Endpoint needed to delete a book
-- Endpoint needed to get all of the books that belong to a category such as: "comic books or tech books" etc
+- Endpoint needed to get all of the books that belong to a category such as: "comic books or tech books"
 - Endpoint needed to create a category
 - Endpoint needed to get a single category
 - Endpoint needed to get all categories 
