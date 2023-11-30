@@ -30,7 +30,7 @@ A Book **must** have the following:
 
 ### Exception Handling:
 - Ensure that you throw exceptions for the following reason below:
-- A book cannot be found by category - display and log the error as ``` No books exist with a category id of:  3 ```
+- A book cannot be found by category - display and log the error as ``` No books exist with a category id of:  1000 ```
 
 - **Extra credit:** Ensure that all activities logged are saved to a file !!!
 
