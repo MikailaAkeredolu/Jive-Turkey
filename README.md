@@ -1,6 +1,7 @@
 
 ## Creating a Book Store API (Block II Exam 1)
-- This is an examination therefore your screen must be shared throughout this exam in your individual breakout room and you must be on camera
+- This is an examination therefore your screen must be shared throughout this exam in your individual breakout room and you must be on camera.
+- Any cheating, sharing of resources with classmates or plagarism will be reported and dealt with severly **Hope that is very clear**
 
 ### User stories - Create a backend API for a Book store:
 - Endpoint needed to create a book and ensure it has a category
@@ -38,5 +39,5 @@ A Book **must** have the following:
 - We will have a 1-1 code review via zoom (breakout room) later.
 - Have your sample JSON test Payload for postman available to use during code review.
 - **Make your repo public** and do not push any new code to the repo past 1:15pm today.
-- No excuses or exceptions will be tolearted if you push code past 1:15pm today. **Hope that is very clear**
+- No excuses or exceptions will be tolearted if you push code past 1:15pm today.
 
