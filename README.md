@@ -30,8 +30,8 @@ A Book **must** have the following:
 - API must have LOGS to log activities to the console
 
 ### Exception Handling:
-- Ensure that you throw exceptions for the following reasons:
-- A book cannot be found by category - print error such as ``` Category Id 1000 does not exist ```
+- Ensure that you throw exceptions for the following reason below:
+- A book cannot be found by category - display and log the error as ``` Category Id 1000 does not exist ```
 
 - **Extra credit:** Ensure that all activities logged are saved to a file !!!
 
