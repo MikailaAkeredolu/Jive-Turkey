@@ -39,5 +39,5 @@ A Book **must** have the following:
 - We will have a 1-1 code review via zoom (breakout room) later.
 - Have your sample JSON test Payload for postman available to use during code review.
 - **Make your repo public** and do not push any new code to the repo past 1:15pm today.
-- No excuses or exceptions will be tolearted if you push code past 1:15pm today.
+- No excuses or exceptions will be tolearted if you push code past 2:15pm today.
 
