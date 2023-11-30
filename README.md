@@ -1,5 +1,5 @@
 
-## Creating a Book Store API (Block II Exam 1)
+## Creating a Book Store API (Block II Final Exam 1)
 - This is an examination therefore your screen must be shared throughout this exam in your individual breakout room and you must be on camera.
 - Any cheating, sharing of resources with classmates or plagarism will be reported and dealt with severly **Hope that is very clear**
 
