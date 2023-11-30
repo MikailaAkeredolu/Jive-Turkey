@@ -34,7 +34,7 @@ A Book **must** have the following:
 
 - **Extra credit:** Ensure that all activities logged are saved to a file !!!
 
-### Submit your repo to me via DM by 1pm sharp. No Extensions for anyone!
+### Submit your repo to me via DM by 1 pm sharp. No Extensions for anyone!
 
 - We will have a 1-1 code review via zoom (breakout room) later. It will be graded.
 - Have your sample JSON test Payload for postman available to use during code review.
