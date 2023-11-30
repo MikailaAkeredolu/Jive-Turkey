@@ -5,42 +5,37 @@
 ### User stories - Create a backend API for a Book store:
 - Endpoint needed to create a book and ensure it has a category
 - Endpoint needed to get a single book 
-- Endpoint needed to get all of the books in the book store
+- Endpoint needed to get all books and to search for books by name or by sku
 - Endpoint needed to update a book
 - Endpoint needed to delete a book
-- Endpoint needed to get all of the books that belong to a category such as: "comic books or tech books"
+- Endpoint needed to get all of the books that belong to a category such as: "comic books or text books"
 - Endpoint needed to create a category
-- Endpoint needed to get a single category
 - Endpoint needed to get all categories 
-- Endpoint needed to update a category
-- Endpoint needed to delete a category 
-- Endpoint needed to search or find books by name
-- Endpoint needed to search or find books by price
+- Endpoint needed to edit a category
 
 ### Backend Requirments describing each Book and Category:
 A Category must have the following:
-- A unique way to **identify** the category and the **name** of the category. eg: "comic books or tech books"
+- A unique way to **identify** the category and the **name** of the category. eg: "comic books or text books"
 
 A Book **must** have the following:
 - A unique way to **identify** the book in our system, a **name**, a **sku**, a **description**, a **price**, an **image**, and finally **stock** to know how many we have available.
 
 - A book **must** belong to a category.
-`For example: The Head First Java book belongs in the Tech Books category`
+`For example: The Head First Java book belongs in the Text Books category`
 
 ### API Requirments:
 - API must have a database such as MYSQL
 - All POJO's **must have** controllers, repositories and service layers
-- API must have LOGS to log activities by using the SLF4J logger
+- Appropriate status codes should be displayed for each type of request
+- API must have LOGS to log activities to the console
 
 ### Exception Handling:
 - Ensure that you throw exceptions for the following reasons:
-- A book cannot be found
-- If one tries to create a Book but uses a bad or not properly formatted payload
-- If one tries to create a Book but is mising a name, sku, price, stock or an image
+- A book cannot be found by category - print error such as ``` Category Id 1000 does not exist ```
 
 - **Extra credit:** Ensure that all activities logged are saved to a file !!!
 
-### Code Review
+### Submit your repo to me via DM by 1pm sharp. No Extensions for anyone!
 
 - We will have a 1-1 code review via zoom (breakout room) later. It will be graded.
 - Have your sample JSON test Payload for postman available to use during code review.
