@@ -20,8 +20,7 @@ A Category must have the following:
 A Book **must** have the following:
 - A unique way to **identify** the book in our system, a **name**, a **sku**, a **description**, a **price**, an **image**, and finally **stock** to know how many we have available.
 
-- A book **must** belong to a category.
-`For example: The Head First Java book belongs in the Text Books category`
+- A book **must** belong to a category. For example: The Head First Java book belongs under the Text Books category
 
 ### API Requirments:
 - API must have a database such as MYSQL
