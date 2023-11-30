@@ -1,6 +1,6 @@
 
-## Creating a Book Store API 
-- Your screen must be shared throughout this exam in your individual breakout room
+## Creating a Book Store API (Block II Exam 1)
+- This is an examination therefore your screen must be shared throughout this exam in your individual breakout room and you must be on camera
 
 ### User stories - Create a backend API for a Book store:
 - Endpoint needed to create a book and ensure it has a category
